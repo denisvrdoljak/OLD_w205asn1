@@ -1,0 +1,17 @@
+Question 3
+
+Local
+real 2m30.591s
+user 2m25.765s
+sys 0m6.462s 
+AWS EMR
+real 13m8.622s
+user 0m2.068s
+sys 0m0.316s
+
+
+Question 4
+
+
+Question 5
+No, the operation doesn’t even give the same output on multiple identical runs on a local machine (same input data (local), same program, same command to run it).
