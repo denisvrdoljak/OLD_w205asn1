@@ -9,9 +9,9 @@ real 13m8.622s
 user 0m2.068s
 sys 0m0.316s
 
-
+I
 Question 4
 
-
+Total tags: 2185 (1686 on emr run)
 Question 5
-No, the operation doesn’t even give the same output on multiple identical runs on a local machine (same input data (local), same program, same command to run it).
+No, the operation doesn’t even give the same output. Even on multiple identical runs on a local machine (same input data (local), same program, same command to run it.
